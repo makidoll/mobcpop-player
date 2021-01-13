@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"scripts": {
+		"start": "electron main.js"
+	},
+	"dependencies": {
+		"electron": "~4.2.6"
+	}
+}
